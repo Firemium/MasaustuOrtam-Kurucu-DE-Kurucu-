@@ -1,2 +1,2 @@
-# Masa-st-Ortam-Kurucu-DE-Kurucu-
+# Masaustu-Ortam-Kurucu-DE-Kurucu-
 Linux için DE kurucu
